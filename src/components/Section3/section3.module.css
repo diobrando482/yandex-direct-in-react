@@ -1,0 +1,25 @@
+.Section3{
+    background: url('./tabletka.jpg') no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    color: black;
+    padding: 60px 60px 0 270px;   
+    border-radius: 4%;
+    
+}
+.Section3 h2{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.mini{
+    background:url('./mini.png');
+    background-size: cover;
+    height: 250px;
+    color: white;
+    width: 810px;
+    margin-top: 50px;
+    font-size: 24px;
+    padding: 30px;
+}
